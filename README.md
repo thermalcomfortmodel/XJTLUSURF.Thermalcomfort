@@ -28,6 +28,6 @@ Please click on this link to participate in this [survey](https://www.wjx.cn/vm/
 
 The following [link](www.link.com) is the final visualization results of the data collected in this investigation. All data sources for this experiment have signed informed agreements.
 
-如果您对于我们的项目有改进的建议，欢迎向我们提出！
+如果您对于我们的项目有改进的建议，欢迎向我们提出！（thermalcomfort.xjtlu@outlook.com)
 
 If you have any suggestions on how to improve our project, please let us know!
