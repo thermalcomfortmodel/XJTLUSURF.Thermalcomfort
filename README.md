@@ -10,7 +10,7 @@ Hello, this is a questionnaire about human thermal comfort from Xi 'an Jiaotong-
 
 ***
 
-### 问卷填写方法 Method of filling the questionnaire
+### 问卷填写方法 Method of filling out the questionnaire
 
 很高兴您能参与到我们的调查中！稍后您可能需要在运动过程中打开以下的问卷链接，根据您的直观感受填写问卷内容。在问卷的首页我们附上了一个[有关PMV的科普视频](https://b23.tv/liulHWS)供您参考。再次感谢您的配合！
 
