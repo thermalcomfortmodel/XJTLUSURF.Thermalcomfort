@@ -25,9 +25,9 @@ Please click on this link to participate in this [survey](https://www.wjx.cn/vm/
 
 ### 数据公布 Data disclosure
 
-以下[链接](www.link.com)是本次研究所收集到的数据最终的可视化结果，本实验所有数据来源皆已签署知情协议。
+以下[链接](https://www.wjx.cn/report/172600554.aspx)是本次研究所收集到的数据最终的可视化结果，本实验所有数据来源皆已签署知情协议。
 
-The following [link](www.link.com) is the final visualization results of the data collected in this investigation. All data sources for this experiment have signed informed agreements.
+The following [link](https://www.wjx.cn/report/172600554.aspx) is the final visualization results of the data collected in this investigation. All data sources for this experiment have signed informed agreements.
 
 如果您对于我们的项目有改进的建议，欢迎向我们提出！（thermalcomfort.xjtlu@outlook.com)
 
